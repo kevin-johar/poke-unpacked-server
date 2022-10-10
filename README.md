@@ -1,4 +1,3 @@
-# ts-node-server
+# Poke-Unpacked-Server
 
-Simple TS Node Server for future projects. 
-Goal is to avoid boilerplate to start proejcts quicker.
+Backend to accompany the Poke Unpacked react app.
